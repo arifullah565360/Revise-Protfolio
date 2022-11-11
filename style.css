@@ -1,0 +1,123 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.allSection {
+  display: flex;
+  margin-top: 20px;
+}
+.mission h1 {
+  color: black;
+}
+
+.mission {
+  font-family: "Lobster Two", cursive;
+  border-left: 2px solid rgb(87, 0, 185);
+  padding-left: 5px;
+  font-size: 30px;
+  color: rgb(0, 62, 112);
+}
+.top-header {
+  padding: 20px;
+  width: 50%;
+}
+
+.top-header img {
+  width: 80%;
+}
+.btn {
+  text-decoration: none;
+  background-color: crimson;
+  color: wheat;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+.scrol {
+  margin-top: 50px;
+}
+#BennerMission {
+  margin-top: 20px;
+
+  align-items: center;
+}
+.missionSide {
+  display: flex;
+  margin: 30px;
+}
+.missionDiv {
+  width: 30%;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: rgb(185, 253, 255);
+  margin: 20px;
+}
+.missionImg img {
+  width: 50%;
+}
+.vissionGoals {
+  width: 30%;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: rgb(255, 230, 239);
+  margin: 20px;
+}
+.DevelopSide {
+  display: flex;
+  margin: 50px;
+}
+.Develop h1 {
+  font-size: 50px;
+}
+.Develop {
+  width: 50%;
+}
+
+.Develop img {
+  width: 90%;
+}
+.Global h1 {
+  font-size: 50px;
+}
+.Global {
+  width: 50%;
+  margin: 30px;
+  padding: 20px;
+}
+.Global img {
+  width: 100%;
+}
+.Build {
+  text-align: center;
+  font-size: 50px;
+}
+.appSide {
+  display: flex;
+}
+.appFetures img {
+  width: 80%;
+}
+
+.appFetures h1 {
+  font-size: 50px;
+}
+.appFetures {
+  width: 50%;
+  padding: 20px;
+  margin: 20px;
+}
+.corona {
+  color: rgb(255, 123, 35);
+}
+.footer {
+  text-align: center;
+  margin: 0px;
+  background-color: black;
+  color: #fff;
+  padding: 20px;
+}
+.year {
+  color: rgb(250, 120, 14);
+}
+.Headline {
+  text-align: center;
+  font-size: 50px;
+}
